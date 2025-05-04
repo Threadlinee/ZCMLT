@@ -77,10 +77,15 @@ Always use responsible security practices and do not rely solely on open-source 
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by dionabazi  
-GitHub: https://github.com/dionabazi
+Made with ❤️ by Threadlinee  
+GitHub: https://github.com/Threadlinee
 
 
 ## 📄 License
 
 MIT License - Feel free to use, modify, and contribute.
+
+## ☕ Support Me
+If you like this project, feel free to [buy me a coffee](https://ko-fi.com/G2G114SBVV)!
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
